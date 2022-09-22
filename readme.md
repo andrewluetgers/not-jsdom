@@ -1,0 +1,1 @@
+This is not JSDOM but is meant to be used via [package overrides](https://docs.npmjs.com/cli/v8/configuring-npm/package-json#overrides) to monkey patch JSDOM with a lighter weight, browser friendly thing that is like JSDOM. 

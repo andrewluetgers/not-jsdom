@@ -1,4 +1,4 @@
-let parseHTML = require('linkedom'),
+let {parseHTML} = require('linkedom'),
 	VirtualConsole = require('./virtual-console')
 
 
